@@ -1,5 +1,5 @@
-# 👾 Game Development Enthusiast
-
+# Hi' I'm JavienDev - A self-taught developer from Finland 👋
+ 
 [![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://javiendev.itch.io/)
 
 **`Game Developer & Technical Artist`**
