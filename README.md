@@ -59,9 +59,9 @@ Looking to team up on:
 - Engine customization experiments
 
 ## 🕹️ Game Dev Trivia
-- ♟️ Currently obsessed with: Procedural generation techniques
-- 🎮 All-time favorite game: <YOUR_FAVORITE_GAME>
-- 🛠️ My dev toolkit essentials: Rider, Substance Painter, Aseprite
+- ♟️ Currently obsessed with: PSX Styled Rendering
+- 🎮 All-time favorite game: Red Dead Redemption 2, Cyberpunk 2077
+- 🛠️ My dev toolkit essentials: Rider, Blender, Photoshop, Unity, Obsidian
 - 🎨 Proudest creation: <BEST_PROJECT> (<LINK>)
 
 ---
