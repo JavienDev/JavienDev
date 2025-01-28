@@ -43,13 +43,13 @@ I'm passionate about creating immersive game experiences through code and 3D art
 ## 📊 Development Activity
 
 <a href="https://github.com/<USERNAME>">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavienDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavienDev&layout=compact&theme=radical"/>
 </a>
 
-![Game Dev Streak](https://streak-stats.demolab.com?user=<USERNAME>&theme=radical&fire=DD2727)
+![Game Dev Streak](https://streak-stats.demolab.com?user=JavienDev&theme=radical&fire=DD2727)
 
-[![Game Dev Timeline](https://github-readme-activity-graph.vercel.app/graph?username=<USERNAME>&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Game Dev Timeline](https://github-readme-activity-graph.vercel.app/graph?username=JavienDev&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💡 Collaboration Opportunities
 Looking to team up on:
