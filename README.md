@@ -2,11 +2,9 @@
  
 [![Itch.io](https://img.shields.io/badge/-Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://javiendev.itch.io/)
 
-**`Game Developer & Technical Artist`**
+I'm passionate about creating immersive game experiences through code and 3D art. Currently exploring the magic behind game engines hile building practical projects.
 
-I'm passionate about creating immersive game experiences through code and 3D art. Currently exploring the magic behind game engines while building practical projects.
-
-## 🎮 Development Arsenal
+## 🎮 Experience in:
 
 ### Core Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -24,21 +22,10 @@ I'm passionate about creating immersive game experiences through code and 3D art
 - Prototyping Mechanics
 - Technical Art Implementation
 
-## 🚀 Current Projects
-
-### [Unity 3D Adventure](<PROJECT_LINK>)
-🏰 A third-person exploration game featuring custom shaders and AI-driven NPC interactions  
-**Tech Stack:** Unity 3D, C#, HLSL, Cinemachine
-
-### [Godot Prototype Series](<PROJECT_LINK>)
-🎮 Collection of experimental 2D/3D mechanics built with Godot  
-**Tech Stack:** Godot 4, GDScript, Blender
-
 ## 🔭 On My Learning Radar
-- 🧠 **Mastering:** C++ Fundamentals
+- 🧠 **Learning:** C++ Fundamentals
 - ⚙️ **Exploring:** Game Engine Architecture
 - 🎨 **Experimenting:** Physics-based Animation
-- 🔄 **Improving:** ECS (Entity Component System) Patterns
 
 ## 📊 Development Activity
 
@@ -62,9 +49,8 @@ Looking to team up on:
 - ♟️ Currently obsessed with: PSX Styled Rendering
 - 🎮 All-time favorite game: Red Dead Redemption 2, Cyberpunk 2077
 - 🛠️ My dev toolkit essentials: Rider, Blender, Photoshop, Unity, Obsidian
-- 🎨 Proudest creation: <BEST_PROJECT> (<LINK>)
 
----
+--
 
 **Let's build the next generation of games together!**  
-📫 Reach me at: [<EMAIL>](mailto:<EMAIL>) | [Twitter](<TWITTER_LINK>) | [LinkedIn](<LINKEDIN_LINK>)
+📫 Reach me at: [javiendev@gmail.com](mailto:<EMAIL>)
