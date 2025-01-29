@@ -29,7 +29,7 @@ I'm passionate about creating immersive game experiences through code and 3D art
 
 ## 📊 Development Activity
 
-<a href="https://github.com/<USERNAME>">
+<a href="https://github.com/JavienDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JavienDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavienDev&layout=compact&theme=radical"/>
 </a>
