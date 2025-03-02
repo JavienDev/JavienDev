@@ -1,5 +1,8 @@
 # Hi' I'm JavienDev - A self-taught developer from Finland 👋
  I'm passionate about anything tech, development or movie related. Currently diving deep into frontend development.
+
+ I update my blog/website more often than this, hosted at: [javiendev.github.io](javiendev.github.io)
+
 ## 🎮 Skills:
 I specialize in the ability of adapting new things rather quickly, i've used a wide range of different techonologies with varying results over the years, but now it has become my goal to actually become proficient in the hobby that i've had for many years.
 ### Languages
@@ -8,8 +11,6 @@ I specialize in the ability of adapting new things rather quickly, i've used a w
 
 ## 🚀 Current Focus:
 - 🧠 **Learning:** Frontend development
-- ⚙️ **Exploring:** Game Engine Architecture
-- 🎨 **Building:** Web Applications & Interactive Interfaces
 
 ## 📊 Development Activity
 
