@@ -3,8 +3,6 @@
 
  I update my blog/website more often than this, hosted at: [javiendev.github.io](javiendev.github.io)
 
-## 🎮 Skills:
-I specialize in the ability of adapting new things rather quickly, i've used a wide range of different techonologies with varying results over the years, but now it has become my goal to actually become proficient in the hobby that i've had for many years.
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
