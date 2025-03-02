@@ -1,7 +1,7 @@
 # Hi' I'm JavienDev - A self-taught developer from Finland 👋
  I'm passionate about anything tech, development or movie related. Currently diving deep into frontend development.
 
- I update my blog/website more often than this, hosted at: [javiendev.github.io](javiendev.github.io)
+ I update my blog/website more often than this, hosted at: [javiendev.github.io](https://javiendev.github.io)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
